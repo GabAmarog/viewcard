@@ -16,7 +16,6 @@ body{
     transform: translate(-50%, -50%);
     max-width: 80%;
     text-align: center;
-
 }
 .container{
     justify-content: center;
@@ -44,7 +43,6 @@ body{
     border-radius: 5px;
     font-size: 14px;
     align-content: center;
-
 }
 .date{
     text-align: left;
@@ -63,7 +61,6 @@ body{
     font-weight: 900;
     font-style: normal;
     margin-left: 20px;
-
 }
 .tex {
     font-size: 16px;
